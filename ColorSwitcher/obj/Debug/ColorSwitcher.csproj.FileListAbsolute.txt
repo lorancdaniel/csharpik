@@ -1,0 +1,14 @@
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\obj\Debug\ColorSwitcher.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\obj\Debug\ColorSwitcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\obj\Debug\ColorSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\ColorSwitcher.exe.config
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\ColorSwitcher.exe
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\ColorSwitcher.pdb
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\obj\Debug\ColorSwitcher.exe
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\obj\Debug\ColorSwitcher.pdb
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\HtmlAgilityPack.dll
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\obj\Debug\ColorSwitcher.csproj.CopyComplete
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\Aspose.HTML.dll
+C:\Users\daniel\source\repos\ColorSwitcher\ColorSwitcher\bin\Debug\Aspose.HTML.xml
